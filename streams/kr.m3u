@@ -218,7 +218,7 @@ https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720
 #EXTINF:-1 tvg-id="ShoppingNT.kr",Shopping NT (720p)
 https://live.shoppingntmall.com/live/10011.m3u8
 #EXTINF:-1 tvg-id="SPOTV.kr",SPOTV (1080p)
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+https://d2zve2l62bwzcf.cloudfront.net/h264/spotv1/cmaf-hls/master.m3u8
 #EXTINF:-1 tvg-id="SPOTV2.kr",SPOTV2 (1080p)
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-id="STB.kr",STB (720p)
